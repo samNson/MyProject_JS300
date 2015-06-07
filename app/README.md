@@ -1,0 +1,1 @@
+The main entry point for this application is placed in this directory and it is file app.js

@@ -1,0 +1,2 @@
+#directory not to be included in the git commit repository
+node_modules
